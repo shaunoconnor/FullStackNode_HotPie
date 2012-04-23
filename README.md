@@ -1,4 +1,5 @@
-FullStackNode_HotPie
+FullStackNode HotPie
 ====================
 
-Full Stack Node HotPie
+A full stack node.js web application
+
